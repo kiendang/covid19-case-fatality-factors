@@ -1,4 +1,4 @@
-# Factors Contributing to COVID-19 Case Fatality
+# Factors Contributing to COVID-19 Case Fatality Rate
 
 *Code to the __Factors Contributing to Case Fatality__ project which won the __Best Overall Award__ at the __[IC2S2](https://www.ic2s2.org/) 2022 Datathon__*
 
