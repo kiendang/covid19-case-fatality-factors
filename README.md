@@ -5,6 +5,7 @@
 ## Results
 
 Visualizations: [1](https://public.tableau.com/app/profile/hong.qu5598/viz/Datathon_team_6/Dashboard1?publish=yes), [2](https://public.tableau.com/app/profile/hong.qu5598/viz/datathon_all_dates/Sheet3?publish=yes)
+Presentation: https://docs.google.com/presentation/d/1apf2QBto7melikp6LnR3Md45E8epsO56awjHlphVYa4/edit#slide=id.g136c755949c_0_25
 
 Recorded presentation: *coming soon*
 
