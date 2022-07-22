@@ -1,5 +1,6 @@
 data/*
 !data/.gitkeep
+!data/outbreaks_events_10000_cases.csv
 
 *.Rproj
 .Rproj.user

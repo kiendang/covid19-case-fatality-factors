@@ -21,4 +21,4 @@ Scripts
 - `outbreaks.r` detects COVID-19 outbreaks from NYT data on daily cumulative cases
     - filter for days in any MSA in which cases reached >= 10000
     - calculate cases between 30 days before and 60 days after the event and deaths within the next 90 days
-    - days that are part of the same outbreak could be manually filtered out from the output
+    - days that are part of the same outbreak could be manually filtered out from the script output to produce the final outbreak events in `data/outbreaks_events_10000_cases.csv`
