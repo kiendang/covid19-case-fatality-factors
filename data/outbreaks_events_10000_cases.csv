@@ -1,0 +1,71 @@
+id,msa,date,new_cases,total_cases,total_deaths,death_percentage,population,msa filename,vaccination rate
+10,"Houston-The Woodlands-Sugar Land, TX Metro Area",9/21/2020,14300,107672,1071,0.99,6482592,"Houston-The Woodlands-Sugar Land, TX Metro Area.csv",0
+13,"Atlanta-Sandy Springs-Alpharetta, GA Metro Area",10/5/2020,11045,108197,1428,1.32,5612777,"Atlanta-Sandy Springs-Alpharetta, GA Metro Area.csv",0
+12,"Phoenix-Mesa-Chandler, AZ Metro Area",12/8/2020,10321,349968,5683,1.62,4486153,"Phoenix-Mesa-Chandler, AZ Metro Area.csv",0
+5,"Dallas-Fort Worth-Arlington, TX Metro Area",12/11/2020,12974,468521,5543,1.18,6894233,"Dallas-Fort Worth-Arlington, TX Metro Area.csv",0
+2,"Los Angeles-Long Beach-Anaheim, CA Metro Area",12/16/2020,25475,1014725,16836,1.66,13186502,"Los Angeles-Long Beach-Anaheim, CA Metro Area.csv",0
+16,"Riverside-San Bernardino-Ontario, CA Metro Area",12/16/2020,16133,417942,5111,1.22,4430646,"Riverside-San Bernardino-Ontario, CA Metro Area.csv",0
+1,"New York-Newark-Jersey City, NY-NJ-PA Metro Area",1/4/2021,39015,597892,6181,1.03,19352443,"New York-Newark-Jersey City, NY-NJ-PA Metro Area.csv",0
+25,"Kansas City, MO-KS Metro Area",3/8/2021,10091,25759,346,1.34,2070147,"Kansas City, MO-KS Metro Area.csv",0.084
+22,"San Diego-Chula Vista-Carlsbad, CA Metro Area",7/1/2021,15453,67893,274,0.4,3253356,"San Diego-Chula Vista-Carlsbad, CA Metro Area.csv",0.561
+8,"Miami-Fort Lauderdale-Pompano Beach, FL Metro Area",7/16/2021,13285,300693,4525,1.5,5923746,"Miami-Fort Lauderdale-Pompano Beach, FL Metro Area.csv",0.538
+18,"Tampa-St. Petersburg-Clearwater, FL Metro Area",7/23/2021,10179,176329,3131,1.78,2924883,"Tampa-St. Petersburg-Clearwater, FL Metro Area.csv",0.45
+50,"Jacksonville, FL Metro Area",7/30/2021,12610,96119,2058,2.14,1424097,"Jacksonville, FL Metro Area.csv",0.422
+46,"Orlando-Kissimmee-Sanford, FL Metro Area",7/30/2021,14473,145398,2044,1.41,2328508,"Orlando-Kissimmee-Sanford, FL Metro Area.csv",0.496
+13,"Atlanta-Sandy Springs-Alpharetta, GA Metro Area",9/7/2021,12019,199421,2768,1.39,5612777,"Atlanta-Sandy Springs-Alpharetta, GA Metro Area.csv",0.246
+6,"Detroit-Warren-Dearborn, MI Metro Area",11/29/2021,11867,416458,4208,1.01,4296731,"Detroit-Warren-Dearborn, MI Metro Area.csv",0.541
+8,"Miami-Fort Lauderdale-Pompano Beach, FL Metro Area",12/17/2021,18632,851664,2818,0.33,5923746,"Miami-Fort Lauderdale-Pompano Beach, FL Metro Area.csv",0.715
+3,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",12/20/2021,24921,839254,4532,0.54,9525767,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area.csv",0.655
+46,"Orlando-Kissimmee-Sanford, FL Metro Area",12/24/2021,10780,246649,1025,0.42,2328508,"Orlando-Kissimmee-Sanford, FL Metro Area.csv",0.642
+1,"New York-Newark-Jersey City, NY-NJ-PA Metro Area",12/26/2021,33497,1184540,4613,0.39,19352443,"New York-Newark-Jersey City, NY-NJ-PA Metro Area.csv",0.596
+2,"Los Angeles-Long Beach-Anaheim, CA Metro Area",12/26/2021,20794,1511684,5039,0.33,13186502,"Los Angeles-Long Beach-Anaheim, CA Metro Area.csv",0.692
+13,"Atlanta-Sandy Springs-Alpharetta, GA Metro Area",12/27/2021,20652,440165,2554,0.58,5612777,"Atlanta-Sandy Springs-Alpharetta, GA Metro Area.csv",0.311
+7,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",12/27/2021,18725,485903,1925,0.4,6024874,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area.csv",0.687
+14,"Seattle-Tacoma-Bellevue, WA Metro Area",12/27/2021,14291,352754,1170,0.33,3669879,"Seattle-Tacoma-Bellevue, WA Metro Area.csv",0.709
+10,"Houston-The Woodlands-Sugar Land, TX Metro Area",12/27/2021,27600,597767,1792,0.3,6482592,"Houston-The Woodlands-Sugar Land, TX Metro Area.csv",0.588
+20,"Baltimore-Columbia-Towson, MD Metro Area",12/28/2021,37603,175768,1607,0.91,2780873,"Baltimore-Columbia-Towson, MD Metro Area.csv",0.683
+4,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",12/29/2021,10419,485175,2952,0.61,6047721,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area.csv",0.617
+18,"Tampa-St. Petersburg-Clearwater, FL Metro Area",12/31/2021,26202,249969,1509,0.6,2924883,"Tampa-St. Petersburg-Clearwater, FL Metro Area.csv",0.589
+50,"Jacksonville, FL Metro Area",12/31/2021,11803,134300,756,0.56,1424097,"Jacksonville, FL Metro Area.csv",0.575
+31,"Las Vegas-Henderson-Paradise, NV Metro Area",1/3/2022,12004,156721,1328,0.85,2070153,"Las Vegas-Henderson-Paradise, NV Metro Area.csv",0.535
+33,"Indianapolis-Carmel-Anderson, IN Metro Area",1/3/2022,12748,175559,1232,0.7,1968768,"Indianapolis-Carmel-Anderson, IN Metro Area.csv",0.572
+17,"St. Louis, MO-IL Metro Area",1/3/2022,12276,240388,1455,0.61,2803449,"St. Louis, MO-IL Metro Area.csv",0.564
+5,"Dallas-Fort Worth-Arlington, TX Metro Area",1/3/2022,39672,538186,2879,0.53,6894233,"Dallas-Fort Worth-Arlington, TX Metro Area.csv",0.558
+39,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1/3/2022,12774,182958,928,0.51,1770319,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area.csv",0.554
+27,"Charlotte-Concord-Gastonia, NC-SC Metro Area",1/3/2022,12046,259401,952,0.37,2407035,"Charlotte-Concord-Gastonia, NC-SC Metro Area.csv",0.537
+30,"San Antonio-New Braunfels, TX Metro Area",1/3/2022,15418,254795,944,0.37,2332345,"San Antonio-New Braunfels, TX Metro Area.csv",0.624
+21,"Denver-Aurora-Lakewood, CO Metro Area",1/3/2022,12345,246437,843,0.34,2752056,"Denver-Aurora-Lakewood, CO Metro Area.csv",0.689
+37,"New Orleans-Metairie, LA Metro Area",1/3/2022,12492,126148,389,0.31,1250247,"New Orleans-Metairie, LA Metro Area.csv",0.601
+40,"Austin-Round Rock-Georgetown, TX Metro Area",1/3/2022,16760,187021,486,0.26,1942615,"Austin-Round Rock-Georgetown, TX Metro Area.csv",0.644
+15,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",1/4/2022,13284,321106,1109,0.35,3473479,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area.csv",0.642
+11,"San Francisco-Oakland-Berkeley, CA Metro Area",1/4/2022,22600,394740,810,0.21,4574440,"San Francisco-Oakland-Berkeley, CA Metro Area.csv",0.798
+34,"Providence-Warwick, RI-MA Metro Area",1/5/2022,20360,207985,526,0.25,1609359,"Providence-Warwick, RI-MA Metro Area.csv",0.673
+103,"Lakeland-Winter Haven, FL Metro Area",1/7/2022,12519,68665,429,0.62,637691,"Lakeland-Winter Haven, FL Metro Area.csv",0.543
+76,"Cape Coral-Fort Myers, FL Metro Area",1/7/2022,10610,60922,279,0.46,680970,"Cape Coral-Fort Myers, FL Metro Area.csv",0.594
+35,"Virginia Beach-Norfolk-Newport News, VA-NC Metro Area",1/10/2022,14982,134856,770,0.57,1748722,"Virginia Beach-Norfolk-Newport News, VA-NC Metro Area.csv",0.736
+32,"Milwaukee-Waukesha, WI Metro Area",1/10/2022,13197,158665,822,0.52,1571730,"Milwaukee-Waukesha, WI Metro Area.csv",0.624
+26,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",1/10/2022,12573,168172,793,0.47,2351319,"Portland-Vancouver-Hillsboro, OR-WA Metro Area.csv",0.714
+28,"Sacramento-Roseville-Folsom, CA Metro Area",1/10/2022,14692,185168,738,0.4,2242542,"Sacramento-Roseville-Folsom, CA Metro Area.csv",0.644
+55,"Bridgeport-Stamford-Norwalk, CT Metro Area",1/10/2022,10280,80093,299,0.37,941618,"Bridgeport-Stamford-Norwalk, CT Metro Area.csv",0.776
+54,"Salt Lake City, UT Metro Area",1/10/2022,11826,131475,275,0.21,1154504,"Salt Lake City, UT Metro Area.csv",0.644
+36,"San Jose-Sunnyvale-Santa Clara, CA Metro Area",1/10/2022,15066,171843,315,0.18,1943107,"San Jose-Sunnyvale-Santa Clara, CA Metro Area.csv",0.825
+63,"Raleigh-Cary, NC Metro Area",1/10/2022,17299,183938,217,0.12,1243720,"Raleigh-Cary, NC Metro Area.csv",0.67
+52,"Tulsa, OK Metro Area",1/12/2022,10477,86457,567,0.66,970603,"Tulsa, OK Metro Area.csv",0.531
+38,"Oklahoma City, OK Metro Area",1/12/2022,23199,133965,755,0.56,1337075,"Oklahoma City, OK Metro Area.csv",0.56
+82,"North Port-Sarasota-Bradenton, FL Metro Area",1/14/2022,11508,61436,430,0.7,751422,"North Port-Sarasota-Bradenton, FL Metro Area.csv",0.639
+118,"Palm Bay-Melbourne-Titusville, FL Metro Area",1/14/2022,11548,50480,288,0.57,560683,"Palm Bay-Melbourne-Titusville, FL Metro Area.csv",0.619
+101,"McAllen-Edinburg-Mission, TX Metro Area",1/14/2022,11157,79522,348,0.44,828334,"McAllen-Edinburg-Mission, TX Metro Area.csv",0.67
+74,"Baton Rouge, LA Metro Area",1/14/2022,12347,84577,336,0.4,847640,"Baton Rouge, LA Metro Area.csv",0.499
+48,"Birmingham-Hoover, AL Metro Area",1/16/2022,12415,105742,506,0.48,1075716,"Birmingham-Hoover, AL Metro Area.csv",0.47
+88,"Madison, WI Metro Area",1/17/2022,17816,66264,109,0.16,634269,"Madison, WI Metro Area.csv",0.776
+70,"Greenville-Anderson, SC Metro Area",1/18/2022,16979,103608,674,0.65,862064,"Greenville-Anderson, SC Metro Area.csv",0.471
+89,"Charleston-North Charleston, SC Metro Area",1/18/2022,10165,83714,332,0.4,728271,"Charleston-North Charleston, SC Metro Area.csv",0.556
+75,"Columbia, SC Metro Area",1/18/2022,13651,103275,310,0.3,800559,"Columbia, SC Metro Area.csv",0.552
+71,"Knoxville, TN Metro Area",1/19/2022,14608,84581,625,0.74,834298,"Knoxville, TN Metro Area.csv",0.547
+25,"Kansas City, MO-KS Metro Area",1/19/2022,11913,142908,769,0.54,2070147,"Kansas City, MO-KS Metro Area.csv",0.582
+57,"Grand Rapids-Kentwood, MI Metro Area",1/19/2022,10750,76984,346,0.45,1032983,"Grand Rapids-Kentwood, MI Metro Area.csv",0.563
+22,"San Diego-Chula Vista-Carlsbad, CA Metro Area",1/20/2022,12201,376590,684,0.18,3253356,"San Diego-Chula Vista-Carlsbad, CA Metro Area.csv",0.718
+103,"Lakeland-Winter Haven, FL Metro Area",1/21/2022,10833,68062,422,0.62,637691,"Lakeland-Winter Haven, FL Metro Area.csv",0.549
+31,"Las Vegas-Henderson-Paradise, NV Metro Area",3/16/2022,18803,40089,895,2.23,2070153,"Las Vegas-Henderson-Paradise, NV Metro Area.csv",0.569
+8,"Miami-Fort Lauderdale-Pompano Beach, FL Metro Area",4/8/2022,10131,175751,779,0.44,5923746,"Miami-Fort Lauderdale-Pompano Beach, FL Metro Area.csv",0.757
+6,"Detroit-Warren-Dearborn, MI Metro Area",5/4/2022,10048,111361,22,0.02,4296731,"Detroit-Warren-Dearborn, MI Metro Area.csv",0.583
